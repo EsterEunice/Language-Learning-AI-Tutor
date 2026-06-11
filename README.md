@@ -98,24 +98,7 @@ http://localhost:3000
 
 ---
 
-## 📂 Project Structure
 
-```text
-app/
-├── api/
-│   └── chat/
-│       └── route.ts
-├── page.tsx
-
-lib/
-└── openrouter.ts
-
-public/
-
-README.md
-```
-
----
 
 ## 🎯 How It Works
 
